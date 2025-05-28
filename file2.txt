@@ -1,0 +1,2 @@
+file2.txt contains different text.
+Each file can have unique content based on your needs.

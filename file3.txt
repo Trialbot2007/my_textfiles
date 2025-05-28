@@ -1,0 +1,40 @@
+This is file3.txt.
+The third file wraps up our set of example text files.
+What it is: A version control system (VCS).
+
+Purpose: Tracks changes in source code during software development.
+
+Key Features:
+
+Local commits, branches, merges.
+
+Works offline.
+
+Command-line based.
+
+Who made it: Created by Linus Torvalds in 2005.
+
+Where it runs: On your local computer.
+
+🌐 GitHub (Platform)
+What it is: A cloud-based hosting service for Git repositories.
+
+Purpose: Helps collaborate, share, and manage Git projects online.
+
+Key Features:
+
+Remote repositories.
+
+Pull requests, issues, discussions.
+
+CI/CD integrations, wikis, project boards.
+
+Who owns it: Owned by Microsoft.
+
+Where it runs: On the web (github.com).
+
+🧭 Analogy
+Git is like a notebook (tool to write and track your work).
+
+GitHub is like Google Drive (a place to share that notebook and collaborate).
+
